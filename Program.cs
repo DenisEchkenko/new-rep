@@ -10,10 +10,13 @@ using MathArray;
 namespace ConsoleRelease2
 {
     class Program
+   
     {
+    
         static void Main(string[] args)
         {
-            ArraInt array = new ArraInt(10);
+            ArraInt array = new ArraInt(144);
+            int gggg = 77;
 
             Console.WriteLine(array.GetSum());
 
